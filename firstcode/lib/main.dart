@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:firstcode/data_base.dart' as db;
 import 'package:firstcode/card.dart' as card;
-import 'package:flutter/services.dart';
 
 void main() {
   runApp(const MyApp());
